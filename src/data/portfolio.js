@@ -1,20 +1,20 @@
 export default [
   {
     title: "Project Management",
-    imgUrl: "/assets/dev-portfolio.jpg",
+    imgUrl: "/assets/projectmanagement.png",
     stack: ["React.js, Tailwind, Express.js, MongoDB"],
     link: "https://github.com/git-dariel/Project-Management",
   },
   {
     title: "Sharehub",
-    imgUrl: "/assets/dev-portfolio.jpg",
+    imgUrl: "/assets/underdeveloped.jpeg",
     stack: ["React.js, Tailwind, Firebase"],
     link: "https://github.com/git-dariel/ShareHub",
   },
   {
-    title: "Developer Portfolio",
-    imgUrl: "/assets/dev-portfolio.jpg",
-    stack: ["React.js, Tailwind"],
-    link: "https://github.com/git-dariel/Minimal-Portfolio",
+    title: "E-Commerce Web Application",
+    imgUrl: "/assets/e-commerce.png",
+    stack: ["React.js, Styled Components"],
+    link: "https://github.com/git-dariel/ShoppingWebsite",
   },
 ];
